@@ -1,0 +1,21 @@
+Features and Terms
+    -Dogpile - When people pile into a stream at the start
+        -means game or stream is interesting
+
+    -Weak End - Stream ending is significantly lower than average
+        -means that stream is probably going too long or content is boring
+
+    -Steady Growth - Content is good people are staying and watching
+        -keep it up
+
+    -Steady Decline - Content is okay, but weaker
+
+    
+
+    -Chat spike
+        -Has more engagement 
+
+    -Chat deadzone
+        -No engagement, could be highly engaging, or you are boring
+
+    

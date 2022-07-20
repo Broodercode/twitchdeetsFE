@@ -1,15 +1,17 @@
+
 <template>
   <div >
-    <p>This is a front end</p>
+    <p>stuff</p>
   </div>
 </template>
 
 <script>
 
 export default {
-  name: 'HelloWorld',
+  name: 'ChartDraw',
 
 }
+
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
